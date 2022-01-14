@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@ethersproject/bignumber": "^5.4.0",
-    "@sushiswap/core-sdk": "1.0.0-canary.39",
+    "@gyro-defi/sushiswap-core-sdk": "^1.0.0-gyro.1",
     "@sushiswap/tines": "1.0.0-canary.21"
   },
   "devDependencies": {
